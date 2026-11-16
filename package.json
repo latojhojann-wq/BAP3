@@ -1,0 +1,14 @@
+{
+  "name": "visor-url",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Contenedor Android: escribes una URL y se abre dentro de la app con acceso a camara",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  }
+}
